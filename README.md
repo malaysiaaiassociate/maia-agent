@@ -1,7 +1,8 @@
 # MAiA Agent
 MAiA Agent is a Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key.
 
-🌐 Browser Support
+
+# 🌐 Browser Support
 Officially Supported:
 
 Chrome - Full support with all features
@@ -11,7 +12,8 @@ Not Supported:
 Firefox, Safari, and other Chromium variants (Opera, Arc, etc.)
 Note: While Nanobrowser may function on other Chromium-based browsers, we recommend using Chrome or Edge for the best experience and guaranteed compatibility.
 
-🔧 Manually Install Latest Version
+
+# 🔧 Manually Install Latest Version
 To get the most recent version with all the latest features:
 
 Download
